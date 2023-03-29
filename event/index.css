@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:bisque
+}
+
+* div{
+    margin: 2vh;
+}
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.square1 {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.redSq {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.redSquare {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.quest8 {
+    display: flex;
+    justify-content: center
+}
+
+.quest8 .square {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 0px 1vh;
+}
+
+.fill {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 10vh;
+}
+
+.btn {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 10vh;
+}
+
+.alertInp {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 10vh;
+}
+
+.reverb {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 10vh;
+}
+
+.lock {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 13vh;
+}
+
+.unlock {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 13vh;
+}
+
+.hideSquare {
+    background-color: blueviolet;
+    height: 5vh;
+    width: 10vh;
+}
+
+.num {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 3vh;
+}
+
+.operation {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 3vh;
+}
+
+.equals {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 3vh;
+}
+
+.clear {
+    background-color: blueviolet;
+    height: 3vh;
+    width: 3vh;
+}
