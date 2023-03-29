@@ -1,0 +1,29 @@
+* {
+    margin: 5px;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: aqua
+}
+
+.add {
+    border-radius: 15px;
+    background-color:cornflowerblue;
+    height: 4vh;
+    width: 15vh;
+    font-size: 15px;
+}
+
+.event {
+    display: inline-block;
+    height: 4vh;
+    width: 50%;
+    font-size: 28px;
+}
+
+.top {
+    text-align: center;
+}
+
+.eventList {
+    text-align: center;
+}
