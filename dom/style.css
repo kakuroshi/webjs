@@ -2,3 +2,10 @@
     background-color: aqua;
     text-align: center;
 }
+
+body select {
+    width: 15%;
+    font-size: 30px;
+    background-color: brown;
+    border-radius: 15px;
+}
