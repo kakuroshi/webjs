@@ -1,0 +1,21 @@
+*{
+    background-color: aqua;
+    text-align: center;
+}
+
+.btn{
+    border-radius: 15px;
+    font-size: larger;
+    width: 5%;
+    height: 15%;
+    background-color: lightgreen;
+}
+
+.time{
+    font-size: 30px;
+}
+
+.text{
+    font-size: 30px;
+    word-break: break-all;
+}
